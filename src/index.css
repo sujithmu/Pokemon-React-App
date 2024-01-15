@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.makeStyles-appbar-2 {
+  background-color: rgb(20, 160, 220) !important;
+}
+
+.MuiSvgIcon-root {
+  cursor: pointer;
+}
